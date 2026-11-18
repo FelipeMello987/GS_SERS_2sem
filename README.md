@@ -1,6 +1,8 @@
 ================================================================================
+
 CITIZEN ASSIST AI - MODULO DE ENERGIA E SUSTENTABILIDADE
 Global Solution 2026.2 - Solucoes em Energias Renovaveis e Sustentaveis
+
 ================================================================================
 
 1. INTEGRANTES
